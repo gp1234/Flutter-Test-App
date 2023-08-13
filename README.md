@@ -1,16 +1,16 @@
-# amicus
+# Amicus
 
-A new Flutter project.
+Amicus is an App for creating workflow of socials plans 
 
-## Getting Started
+## Hypothesis
+Is good to scape out of the routine for this reason and for the lack of an idea creator we want to make a task planner that can help you organize your leisure time
 
-This project is a starting point for a Flutter application.
+## Ideas 💡
+### UI/UX 🎨
+- Create worflows in a conversation way using a LLVM
+- The second interface will be component widgets where you can watch information of the options given by Amico
+### Features
+- Reserve venues in advance with the credit card
+- Suggest places based on different criteria
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
